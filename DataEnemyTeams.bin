@@ -1,0 +1,25 @@
+Name: Enemy #0
+Armor:17
+Lives: 111
+Damage: 25
+X: 21 Y:19
+Name: Enemy #1
+Armor:43
+Lives: 80
+Damage: 24
+X: 1 Y:25
+Name: Enemy #2
+Armor:18
+Lives: 118
+Damage: 28
+X: 17 Y:22
+Name: Enemy #3
+Armor:1
+Lives: 126
+Damage: 26
+X: 10 Y:29
+Name: Enemy #4
+Armor:29
+Lives: 95
+Damage: 20
+X: 10 Y:14
